@@ -1,0 +1,413 @@
+{
+  "Menu": [
+    {
+      "id": 1,
+      "name": "Beef Burger",
+      "unitPrice": 30,
+      "image": "beef burger.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": false,
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "name": "CheeseBurger",
+      "unitPrice": 35,
+      "image": "cheesburger.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": false,
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "name": "Crispy-Chicken-Pizza",
+      "unitPrice": 40,
+      "image": "crispy-chicken-parmesan-pizza.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": false,
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "name": "Panini Chicken",
+      "unitPrice": 40,
+      "image": "panini poulet.jpeg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": false,
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "name": "panini-viande-hashe",
+      "unitPrice": 15,
+      "image": "panini viande hashe.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": false,
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "name": "Passticio Poulet",
+      "unitPrice": 25,
+      "image": "passticio poulet.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": false,
+      "isFavorite": false
+    },
+    {
+      "id": 7,
+      "name": "pastitio viande hashe",
+      "unitPrice": 25,
+      "image": "pastitio viande hashe.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": false,
+      "isFavorite": false
+    },
+    {
+      "id": 8,
+      "name": "pastrami pizza",
+      "unitPrice": 25,
+      "image": "pastrami pizza.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": false,
+      "isFavorite": false
+    },
+    {
+      "id": 9,
+      "name": "pineapple pizza",
+      "unitPrice": 25,
+      "image": "pineapple pizza.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": false,
+      "isFavorite": false
+    },
+    {
+      "id": 10,
+      "name": "pizza margarita",
+      "unitPrice": 25,
+      "image": "pizza margarita.jpeg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": false,
+      "isFavorite": false
+    },
+    {
+      "id": 11,
+      "name": "pizza thon",
+      "unitPrice": 25,
+      "image": "pizza thon.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": false,
+      "isFavorite": false
+    },
+    {
+      "id": 12,
+      "name": "tacos-boeuf-hache",
+      "unitPrice": 25,
+      "image": "Recette-tacos-au-boeuf-hache.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": false,
+      "isFavorite": false
+    },
+    {
+      "id": 13,
+      "name": "shawarma kebab",
+      "unitPrice": 25,
+      "image": "shawarma kebab.webp",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": false,
+      "isFavorite": false
+    },
+    {
+      "id": 14,
+      "name": "spicy burger",
+      "unitPrice": 25,
+      "image": "spicy burger.jpeg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": false,
+      "isFavorite": false
+    },
+    {
+      "id": 15,
+      "name": "tacos mixte",
+      "unitPrice": 25,
+      "image": "tacos mixte.jpeg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": false,
+      "isFavorite": false
+    },
+    {
+      "id": 16,
+      "name": "tacos poulet",
+      "unitPrice": 25,
+      "image": "tacos poulet.jpeg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": false,
+      "isFavorite": false
+    }
+  ],
+  "Favorite": [
+    {
+      "idMenu": 12,
+      "name": "tacos-boeuf-hache",
+      "unitPrice": 25,
+      "image": "Recette-tacos-au-boeuf-hache.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "isFavorite": null,
+      "id": 1
+    }
+  ],
+  "received": [
+    {
+      "id": 1,
+      "orderId": "ABCD",
+      "Status": "ABCD",
+      "Name": "Youssef",
+      "Number": "0687114438",
+      "Position": "Marrakech",
+      "Order": []
+    },
+    {
+      "Name": "Youssef",
+      "Number": "0654545555",
+      "Position": "",
+      "Order": [
+        {
+          "id": 2,
+          "image": "cheesburger.jpg",
+          "name": "CheeseBurger",
+          "quantity": 1,
+          "unitPrice": 35,
+          "totalPrice": 35
+        },
+        {
+          "id": 3,
+          "image": "crispy-chicken-parmesan-pizza.jpg",
+          "name": "Crispy-Chicken-Pizza",
+          "quantity": 1,
+          "unitPrice": 40,
+          "totalPrice": 40
+        }
+      ],
+      "Total": 75,
+      "id": 2
+    },
+    {
+      "Name": "test",
+      "Number": "454545",
+      "Position": "",
+      "Order": [
+        {
+          "id": 1,
+          "image": "beef burger.jpg",
+          "name": "Beef Burger",
+          "quantity": 1,
+          "unitPrice": 30,
+          "totalPrice": 30
+        },
+        {
+          "id": 2,
+          "image": "cheesburger.jpg",
+          "name": "CheeseBurger",
+          "quantity": 1,
+          "unitPrice": 35,
+          "totalPrice": 35
+        }
+      ],
+      "Total": 65,
+      "id": 3
+    },
+    {
+      "Name": "cc",
+      "Number": "ss",
+      "Position": "",
+      "Order": [],
+      "Total": 0,
+      "id": 4
+    },
+    {
+      "Name": "cc",
+      "Number": "ss",
+      "Position": "",
+      "Order": [],
+      "Total": 0,
+      "id": 5
+    },
+    {
+      "Name": "ffffffff",
+      "Number": "qqqqqqq",
+      "Position": "",
+      "Order": [],
+      "Total": 0,
+      "id": 6
+    },
+    {
+      "Name": "Hamza",
+      "Number": "444444",
+      "Position": "",
+      "Order": [
+        {
+          "id": 1,
+          "image": "beef burger.jpg",
+          "name": "Beef Burger",
+          "quantity": 1,
+          "unitPrice": 30,
+          "totalPrice": 30
+        }
+      ],
+      "Total": 30,
+      "id": 7
+    },
+    {
+      "Name": "Youssef",
+      "Number": "0654545555",
+      "Position": "",
+      "Order": [
+        {
+          "id": 1,
+          "image": "beef burger.jpg",
+          "name": "Beef Burger",
+          "quantity": 1,
+          "unitPrice": 30,
+          "totalPrice": 30
+        },
+        {
+          "id": 2,
+          "image": "cheesburger.jpg",
+          "name": "CheeseBurger",
+          "quantity": 1,
+          "unitPrice": 35,
+          "totalPrice": 35
+        }
+      ],
+      "Total": 65,
+      "id": 8
+    },
+    {
+      "Name": "Yopussef",
+      "Number": "0654545555",
+      "Position": "Marrakech",
+      "Order": [
+        {
+          "id": 2,
+          "image": "cheesburger.jpg",
+          "name": "CheeseBurger",
+          "quantity": 2,
+          "unitPrice": 35,
+          "totalPrice": 70
+        },
+        {
+          "id": 3,
+          "image": "crispy-chicken-parmesan-pizza.jpg",
+          "name": "Crispy-Chicken-Pizza",
+          "quantity": 1,
+          "unitPrice": 40,
+          "totalPrice": 40
+        }
+      ],
+      "Total": 110,
+      "id": 9
+    }
+  ]
+}
